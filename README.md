@@ -83,6 +83,56 @@ En utilisant L'interface Postman : Postman est un outil permettant de manipuler 
 ![image](https://user-images.githubusercontent.com/97621443/163587644-f5332391-1a37-4232-b85f-0676756edcf7.png)
 
 
+14/ Swagger :
+
+![image](https://user-images.githubusercontent.com/97621443/172929486-6410b1e2-fd1c-40b2-9d94-2a96fd614edb.png)
+  
+Get Id Via Swagger:
+
+![image](https://user-images.githubusercontent.com/97621443/172929660-91496978-4634-493b-881e-887a10a21dc6.png)
+
+
+Les Comptes:
+
+![image](https://user-images.githubusercontent.com/97621443/172929787-a6f6935b-ff7c-46fc-9dfd-225ff675aaab.png)
+
+
+Deux Comptes:
+
+![image](https://user-images.githubusercontent.com/97621443/172929893-bda37d81-ed26-4cc3-b13a-264f67a2581f.png)
+
+
+Affichage De compte en utilisant la projection:
+
+![image](https://user-images.githubusercontent.com/97621443/172930039-468d7ab4-5cda-47d4-8df1-237886775414.png)
+
+![image](https://user-images.githubusercontent.com/97621443/172930118-afef5190-ab82-4f41-a413-349943cbce6f.png)
+
+aprés l'utilisation de exposelds:
+
+![image](https://user-images.githubusercontent.com/97621443/172930351-118ecb68-88ae-42cf-aa84-5487e4b44ccc.png)
+
+
+
+Affichage:
+
+![image](https://user-images.githubusercontent.com/97621443/172930469-2b5a2fd7-e7e9-417e-994a-7841978a1e29.png)
+
+Affichage (Aprés et Avant le virement) :
+
+
+![image](https://user-images.githubusercontent.com/97621443/172930779-c023b275-d1b4-45ae-8f48-28045f7dc02e.png)
+
+
+![image](https://user-images.githubusercontent.com/97621443/172930868-8d4c9b95-1678-4d8d-b55e-24e6a28c83b2.png)
+
+![image](https://user-images.githubusercontent.com/97621443/172930920-b73eeadd-afd5-42ec-ab24-dfb7c92f9019.png)
+
+
+
+
+
+
 
 
 
